@@ -4,12 +4,13 @@ module.exports = {
       resolve: "gatsby-source-contentful",
       options: {
         accessToken: "HE0NnJBEZy1EfAU-w3aTNFpiRsaYjwwFFPGsv2jjEZY",
-        spaceId: "",
+        spaceId: "r9rppb1i8ht9",
       },
     },
     "gatsby-plugin-sass",
     "gatsby-plugin-gatsby-cloud",
     "gatsby-plugin-image",
+    "gatsby-plugin-sharp",
     {
       resolve: "gatsby-plugin-google-analytics",
       options: {
